@@ -238,10 +238,6 @@ void exo17(sil::Image& image)
     }
 }
 
-// exo18
-
-
-
 
 int main()
 {
@@ -351,6 +347,5 @@ int main()
         exo17(image);
         image.save("output/exo17.png");
     }
-
 
 }
