@@ -89,8 +89,9 @@ ____
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |![image](./output/exo13_25.png)|![image](./output/exo13_26.png)|![image](./output/exo13_27.png)|![image](./output/exo13_28.png)|![image](./output/exo13_29.png)|
 
-**Résultat Gif**
-![image](./output/ezgif.com-gif-maker.gif)
+|**Résultat Gif**|
+| ------------- |
+|![image](./output/ezgif.com-gif-maker.gif)|
 ____
 ## Exercice 14 - ⭐⭐⭐ Rosace
 
